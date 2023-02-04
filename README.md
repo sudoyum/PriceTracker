@@ -13,6 +13,8 @@ email_params = {
 
 * get_price function will probably need modification depending on website
 
+* Using starttls protocol on port 587  - https://stackoverflow.com/questions/57715289/how-to-fix-ssl-sslerror-ssl-wrong-version-number-wrong-version-number-ssl
+
 
 ## Run on a schedule using Cron
 
